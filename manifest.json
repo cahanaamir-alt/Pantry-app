@@ -1,0 +1,25 @@
+{
+  "name": "המזווה שלי",
+  "short_name": "מזווה",
+  "description": "ניהול מלאי מזון ביתי",
+  "start_url": "/Pantry-app/pantry-8.html",
+  "scope": "/Pantry-app/",
+  "display": "standalone",
+  "background_color": "#0f1923",
+  "theme_color": "#00c9a7",
+  "orientation": "portrait",
+  "lang": "he",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/00c9a7/0f1923/png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/00c9a7/0f1923/png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
